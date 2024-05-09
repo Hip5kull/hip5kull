@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 ## POCHON Méderic
 ### ![pin](@site/static/img/pin.svg)Normandie
-### ![Linkedin](@site/static/img/linkedin.svg) <a href="https://linkedin.com/in/medericpochon/>Méderic P.</a>i
+### ![Linkedin](@site/static/img/linkedin.svg)[Méderic P.](https://linkedin.com/in/medericpochon/)
 ### Expériences
 
 2023-2024   **Technicien Support Telecom** - *Koesio*
