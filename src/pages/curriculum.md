@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 <center> *Passionné depuis mon plus jeune âge par la technologie, mes compétences ne cessent de croître depuis des années.
 Au travers de projets personnels avec un Raspberry Pi, les distributions Linux ne me quitte plus. Utilisateur chevronné, j'administre mon homelab sous l'hyperviseur Proxmox VE sur lequel je teste différentes technologies.*</center>
-
+  
 # <center> POCHON Méderic </center>
 ![pin](@site/static/img/pin.svg)Normandie 
   
@@ -63,12 +63,12 @@ Au travers de projets personnels avec un Raspberry Pi, les distributions Linux n
 
 ### Formations
 
-2023 **Technicien Supérieur Systèmes et Réseaux** - *Eni Ecole Informatique* - **Obtenu en 09/2023**
-2022 **Elaborer et mettre en oeuvre une démarche cybersécurité** - *Cyberini* - **CPF**
-2022-2023 **Ethical Hacker** - *Seela* - *Autoformation*
-2022-Aujourd'hui **Autodidactie dans la sécurité offensive et défensive** - *Multi-plateformes*
-2015 **Initiateur Fédéral** - *Fédération Française de Football Américain* - **Obtenu**
-2010 **Baccalauréat Professionnel Industries Graphiques option Production Imprimé**- *Lycée Modeste Leroy* - **Obtenu avec mention bien**
+2023 **Technicien Supérieur Systèmes et Réseaux** - *Eni Ecole Informatique* - **Obtenu en 09/2023**  
+2022 **Elaborer et mettre en oeuvre une démarche cybersécurité** - *Cyberini* - **CPF**  
+2022-2023 **Ethical Hacker** - *Seela* - *Autoformation*  
+2022-Aujourd'hui **Autodidactie dans la sécurité offensive et défensive** - *Multi-plateformes*  
+2015 **Initiateur Fédéral** - *Fédération Française de Football Américain* - **Obtenu**  
+2010 **Baccalauréat Professionnel Industries Graphiques option Production Imprimé**- *Lycée Modeste Leroy* - **Obtenu avec mention bien**  
 
 ### Centre d'intérêt
 
