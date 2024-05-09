@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 ## POCHON Méderic
 ### ![pin](@site/static/img/pin.svg)Normandie
-### ![Linkedin](@site/static/img/linkedin.svg)[Méderic P.](https://linkedin.com/in/medericpochon/)
+### ![Linkedin](@site/static/img/linkedin.svg) [Méderic P.](https://linkedin.com/in/medericpochon/)
 ### Expériences
 
 2023-2024   **Technicien Support Telecom** - *Koesio*
@@ -15,6 +15,8 @@ title: Curriculum Vitae
 - Configuration et installation de matériels réseaux et téléphoniques
 - Réalisation d'un script de déploiement pour SBC Raspberry Pi hébergeant la solution VoIP **3CX**
 - Configuration switches et firewall *(Cisco, Zyxel, Fortinet et Watchguard)*
+- Téléphonie: **Centrex**, **Enove**, **3CX**
+- Réseaux: Liens IP (**FTTO/FTTH**, **xDSLs**)
 
 2023 **Administrateur Systèmes et Réseaux** - *Infopen*
 - Etude de projet sur un PKI en vue de protéger l'ensemble des services legacy
