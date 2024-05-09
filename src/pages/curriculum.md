@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-<p style="text-align: center;"># Administrateur systèmes et réseaux</p>
+# <center>Administrateur systèmes et réseaux</center>
 
 ## POCHON Méderic
 ![pin](@site/static/img/pin.svg)Normandie
