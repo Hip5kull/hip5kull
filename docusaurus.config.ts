@@ -9,7 +9,7 @@ const config: Config = {
   tagline: 'Tutorials & Documentations',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
-  url: 'https://Hip5kullgithub.io',
+  url: 'https://Hip5kull.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/hip5kull/',
