@@ -5,7 +5,7 @@ title: Curriculum Vitae
 # <center>Administrateur systèmes et réseaux</center>
 
 <center> *Passionné depuis mon plus jeune âge par la technologie, mes compétences ne cessent de croître depuis des années.
-Au travers de projets personnels avec un Raspberry Pi (media center, pi-hole,...), les distributions Linux ne me quitte plus. Utilisateur chevronné, j'administre mon homelab sous l'hyperviseur Proxmox VE sur lequel je teste différentes technologies.*</center>
+Au travers de projets personnels avec un Raspberry Pi, les distributions Linux ne me quitte plus. Utilisateur chevronné, j'administre mon homelab sous l'hyperviseur Proxmox VE sur lequel je teste différentes technologies.*</center>
 
 # <center> POCHON Méderic </center>
 ![pin](@site/static/img/pin.svg)Normandie 
