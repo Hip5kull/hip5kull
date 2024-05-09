@@ -2,8 +2,11 @@
 title: Curriculum Vitae
 ---
 
-# POCHON Méderic
+# Administrateur systèmes et réseaux
 
+# POCHON Méderic
+## Normandie
+## ![Linkedin](@site/static/img/linkedin.svg) Méderic P.
 ## Expériences
 
 2023-2024   **Technicien Support Telecom** - *Koesio*
