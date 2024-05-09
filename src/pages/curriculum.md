@@ -5,8 +5,8 @@ title: Curriculum Vitae
 # Administrateur systèmes et réseaux
 
 ## POCHON Méderic
-### ![pin](@site/static/img/pin.svg)Normandie
-### ![Linkedin](@site/static/img/linkedin.svg) [Méderic P.](https://linkedin.com/in/medericpochon/)
+![pin](@site/static/img/pin.svg)Normandie
+![Linkedin](@site/static/img/linkedin.svg) [Méderic P.](https://linkedin.com/in/medericpochon/)
 ### Expériences
 
 2023-2024   **Technicien Support Telecom** - *Koesio*
