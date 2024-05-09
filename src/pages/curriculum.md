@@ -14,16 +14,16 @@ Au travers de projets personnels avec un Raspberry Pi (media center, pi-hole,...
 
 ### Compétences
 
-**Bureautique:** Suite Microsoft 365 (Word, Excel, Teams, OneDrive, Sharepoint)
-**Systèmes:** Installation, configuration et MCO des SI: Windows 10 et 11, Windows Server 2016,2019,2022, Debian 9+, Ubuntu (CLI et GUI).
-**Réseaux:** TCP/IP, Switch et Routeur (Cisco, Zyxel, Fortinet, Watchguard), appliance pfSense et OpnSense.
-**Services Réseaux:** DHCP, DNS, Serveurs Web IIS et Apache, Authentification centralisée (ADDS), Serveur RDS, Déploiement des systèmes d'exploitation (WDS), Authorité de certification (ADCS)
-**Gestion de Parc:** Méthode ITIL et GLPI
-**Messagerie:** Microsoft 365 Exchange Online - Outlook
-**Virutalisation:** VMware Workstation, Hyper-V, vSphere Serveur, Proxmox VE, Docker
-**Monitoring:** Centreon CES, Prometheus/Grafana
-**Automatisation:** Terraform (initié), Ansible (initié), Vagrant (initié)
-**Scripting**: Bash, Powershell, Python (*en cours*)
+- **Bureautique:** Suite Microsoft 365 (Word, Excel, Teams, OneDrive, Sharepoint)
+- **Systèmes:** Installation, configuration et MCO des SI: Windows 10 et 11, Windows Server 2016,2019,2022, Debian 9+, Ubuntu (CLI et GUI).
+- **Réseaux:** TCP/IP, Switch et Routeur (Cisco, Zyxel, Fortinet, Watchguard), appliance pfSense et OpnSense.
+- **Services Réseaux:** DHCP, DNS, Serveurs Web IIS et Apache, Authentification centralisée (ADDS), Serveur RDS, Déploiement des systèmes d'exploitation (WDS), Authorité de certification (ADCS)
+- **Gestion de Parc:** Méthode ITIL et GLPI
+- **Messagerie:** Microsoft 365 Exchange Online - Outlook
+- **Virutalisation:** VMware Workstation, Hyper-V, vSphere Serveur, Proxmox VE, Docker
+- **Monitoring:** Centreon CES, Prometheus/Grafana
+- **Automatisation:** Terraform (initié), Ansible (initié), Vagrant (initié)
+- **Scripting**: Bash, Powershell, Python (*en cours*)
 
 ### Expériences
 
