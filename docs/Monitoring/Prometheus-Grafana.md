@@ -10,13 +10,13 @@ qm create <vm_id> \
   --memory <vm_mem_mb> \
   --net0 virtio,bridge=<vm_bridge>
 
-qm disk import <vm_id> /mnt/pve/cfs-common-install/template/iso/debian-12-generic-amd64.img vms-<(infra|infopen|onlineplatforms)> -format raw
+qm disk import <vm_id> /mnt/pve/cfs-common-install/template/iso/debian-12-generic-amd64.img vms-<(infra|prod|)> -format raw
 
-qm set <vm_id> --scsihw virtio-scsi-pci --scsi0 vms-<(infra|infopen|onlineplatforms)>:vm-<vm_id>-disk-0
+qm set <vm_id> --scsihw virtio-scsi-pci --scsi0 vms-<(infra|prod)>:vm-<vm_id>-disk-0
 
 qm resize <vm_id> scsi0 +xG # Replace x with a number to resize debian disk
 
-qm set <vm_id> --ide2 vms-<(infra|infopen|onlineplatforms)>:cloudinit
+qm set <vm_id> --ide2 vms-<(infra|prod)>:cloudinit
 
 qm set <vm_id> --boot c --bootdisk scsi0
 ```
