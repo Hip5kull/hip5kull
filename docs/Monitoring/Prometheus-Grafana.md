@@ -296,7 +296,7 @@ To allow monitoring, we have to apply rules in the datacenter firewall
 ![dashboard_grafana](@site/static/img/grafana_datasources01.png)
 ![dashboard_grafana](@site/static/img/grafana_datasources02.png)
 ### Import Dashboard
-![dashboard_grafana](@site/static/imggrafana_dashboard01.png)
-![dashboard_grafana](@site/static/imggrafana_dashboard02.png)
-![dashboard_grafana](@site/static/imggrafana_dashboard03.png)
+![dashboard_grafana](@site/static/img/grafana_dashboard01.png)
+![dashboard_grafana](@site/static/img/grafana_dashboard02.png)
+![dashboard_grafana](@site/static/img/grafana_dashboard03.png)
 ![dashboard_grafana](@site/static/img/grafana_dashboard04.png)
