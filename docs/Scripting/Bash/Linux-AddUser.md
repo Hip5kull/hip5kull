@@ -22,9 +22,9 @@ if [[ $EUID -ne 0 ]]; then
 fi
 # Récupère le nom du fichier texte contenant les informations sur les utilisateurs
 echo "Entrez le nom du fichier texte contenant les informations sur les utilisateurs (format : prenom nom groupe): "
-read filename
+read -r filename
 # Vérifie si le fichier texte existe
-if [ ! -f $filename ]; then
+if [ $! -ne "$filename" ]; then
     echo "Le fichier $filename n'existe pas."
     exit 1
 fi
@@ -34,14 +34,15 @@ while read -r prenom nom groupe; do
     password=$(openssl rand -base64 12 | tr -d "=+/")
     encrypted_password=$(echo "$password" | openssl passwd -1 -stdin)
 # Vérifie si le groupe existe, sinon le crée
-    getent group $groupe > /dev/null
-    if [ $? -ne 0 ]; then
-        groupadd $groupe
+    getent group "$groupe" > /dev/null
+    if [ $! -ne 0 ]; then
+        groupadd "$groupe"
     fi
 # Crée l'utilisateur et ajoute au groupe correspondant
-    useradd -m -p $encrypted_password -s /bin/bash -g $groupe $username
+    useradd -m -p "$encrypted_password" -s /bin/bash -g "$groupe" "$username"
     echo "L'utilisateur $username a été créé avec succès. Son mot de passe est : $password"
     echo "L'utilisateur $username a été créé avec le mot de passe : $password" >> login_users.txt
 done < "$filename"
 exit 0
+
 ```
