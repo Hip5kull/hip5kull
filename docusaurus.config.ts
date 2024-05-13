@@ -59,7 +59,7 @@ const config: Config = {
     navbar: {
       title: 'Hip5kull',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
       },
       items: [
