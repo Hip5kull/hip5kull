@@ -1,25 +1,33 @@
+---
+id: 3cx-provider
+title: Provider-3CX Template
+custom_edit_url: null
+---
+
 # Provider 3CX Template
 
-## What is 3CX ?
+## Qu'est-ce que 3CX ?
 
-3CX is a phone system for companies.
+3CX est un système de téléphonie IP destiné aux entreprises. Il permet de communiquer avec ou sans combiné via l'application web ou logiciel.
 
-## What does this script do ?
+<center> ![3CX-logo](/img/3CX-logo.png) </center>
 
-This script allows you to set up a template for Yealink, Gigaset or other telephone handsets using your own trunk.
-The purpose of this script is to optimize your teams' time in deploying the 3CX system and configuring templates.
+## Que fait le script?
 
-Now you can deploy your VMs, modify the template according to your trunks, your name, and the name you wish to assign to the template.
+Ce script vous permet de créer un template personnalisé pour vos combinés Yealink ou Gigaset en utilisant votre propre Trunk.
+Le but de ce script est d'optimiser le temps de votre équipe dans le déploiement des systèmes 3CX et la configuration de vos Vms.
 
-## How to execute this script ?
+Maintenant vous pouvez déployer votre vm, modifier le template en fonction de vos trunks, du nom de votre société et du nom que vous voulez donner au template.
 
-Make sure you have the `curl` or `wget` package 
+## Comment exécuter ce script ?
+
+Assurez-vous d'avoir les paquets `curl` ou `wget` sur votre VM. Si ce n'est pas le cas, téléchargez l'un des deux paquets avec les commandes suivantes:
 
 ```sh
 sudo apt install curl
 sudo apt install wget
 ```
-
+Les deux commandes ci-dessous, vous permet de télécharger le script, le rendre exécutable et le lancer. Choisissez l'une ou l'autre en fonction du paquet que vous avez téléchargé préalablement.
 ```sh
 wget https://raw.githubusercontent.com/Hip5kull/Provider-3CX/master/provider3cx.sh && chmod +x provider3cx.sh && sudo bash provider3cx.sh
 ```
@@ -27,11 +35,11 @@ wget https://raw.githubusercontent.com/Hip5kull/Provider-3CX/master/provider3cx.
 ```sh
 curl -O https://raw.githubusercontent.com/Hip5kull/Provider-3CX/master/provider3cx.sh && chmod +x provider3cx.sh && sudo bash provider3cx.sh
 ```
-Then simply enter the file name, company name and trunk server link.
+Saisissez le nom du fichier, le nom d'entreprise ainsi que votre trunk.
 
-You will need to restart your 3CX's VM for the changes take effect.
+Le redémarrage sera nécessaire pour que les modifications soient effectives.
 
-You can check the script below:
+Vous pouvez voir le script ci-dessous:
 
 ```sh showLineNumbers
 #!/bin/bash

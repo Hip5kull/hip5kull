@@ -1,3 +1,9 @@
+---
+id: adduser-linux
+title: AddUser Linux
+custom_edit_url: null
+---
+
 # Ajouter des Utilisateurs à partir d'un fichier
 
 Ce script vous permet de créer des utilisateurs à partir d'un fichier CSV.

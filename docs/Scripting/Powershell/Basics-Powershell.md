@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+id: basics-powershell
+title: Powershell Basics
+custom_edit_url: null
 ---
 # POWERSHELL - Basic Commands
 

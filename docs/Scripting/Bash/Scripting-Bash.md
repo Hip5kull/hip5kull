@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
+id: scripting-shell
+title: Scripting Shell
+custom_edit_url: null
 ---
+
 # Scripting Shell
 # Sommaire
 - [SCRIPTING SHELL](#scripting-shell)
