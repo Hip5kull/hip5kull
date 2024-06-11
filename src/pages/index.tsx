@@ -15,7 +15,7 @@ function HomepageHeader() {
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
-          <p className="hero__subtitle">{`Documentations et Blog d'un passionné`}</p>
+          <p className="hero__subtitle">{`Documentations et Blog d'un passionné`} </p>
         </Heading>
       </div>
     </header>
@@ -27,7 +27,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}'s Documentations`}
-      description="Cybersecurity enthusiast, I'm sharing my knowledges with all />">
+      description="Passionné de cybersécurité je partage l'ensemble de mes connaissances avec vous tous. />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
