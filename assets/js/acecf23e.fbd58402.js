@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgithub_page=self.webpackChunkgithub_page||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/hip5kull/blog","blogTitle":"Blog"}')}}]);
