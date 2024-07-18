@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgithub_page=self.webpackChunkgithub_page||[]).push([[700],{7964:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/hip5kull/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
