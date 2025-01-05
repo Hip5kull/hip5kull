@@ -1,41 +1,17 @@
-# Website
+# Bienvenue sur mon GitHub
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Passionné de cybersécurité et d'administration systèmes, ce **Github** me permet de mettre à disposition des scripts sur des projets ponctuels ou à usage quotidien.
 
-### Installation
+Autodidacte dans l'âme, je nourris ma curiosité ainsi que ma soif d'apprentissage par les nouvelles technologies, nouveaux langages et des projets personnels.
 
-```
-$ yarn
-```
+Joueurs de CTF sur **Vulnlab**, [**TryHackMe**](https://tryhackme.com/r/p/HipSkull) et [**HackTheBox**]()
 
-### Local Development
+<img src="https://tryhackme-badges.s3.amazonaws.com/HipSkull.png" alt="Hip5kull" />
 
-```
-$ yarn start
-```
+Langages utilisés:
+**Shell** - **Powershell** - **Python**
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hip5kull&show_icons=true&locale=en&layout=compact" alt="Langages" />
 
-### Build
+La culture DevOps m'attirant, je travaille d'arrache-pied pour m'améliorer et monter en compétences au travers de mon homelab Proxmox.
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
